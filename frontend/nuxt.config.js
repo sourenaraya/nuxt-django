@@ -26,7 +26,7 @@ module.exports = {
     '@nuxtjs/auth'
   ],
   axios: {
-    baseURL: 'http://django:8000',
+    baseURL: 'http://backend:8000',
     browserBaseURL: 'http://localhost:8000'
   },
   toast: {
